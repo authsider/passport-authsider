@@ -1,0 +1,17 @@
+*.log
+npm-debug.log*
+
+# Coverage directory
+coverage
+.nyc_output
+
+# Dependency directories
+node_modules
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# Project files
+src
+.gitignore
