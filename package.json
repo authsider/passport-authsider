@@ -1,6 +1,6 @@
 {
   "name": "passport-authsider",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Authsider authentication strategy for Passport",
   "author": "Authsider <support@authsider.io> (https://www.authsider.io)",
   "license": "MIT",
