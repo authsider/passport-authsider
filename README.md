@@ -1,5 +1,9 @@
 # passport-authsider
 
+[![NPM version](https://badge.fury.io/js/passport-authsider.svg)](http://badge.fury.io/js/passport-authsider)
+[![Dependency Status](https://david-dm.org/authsider/badges.svg)](https://david-dm.org/authsider/badges)
+[![devDependency Status](https://david-dm.org/authsider/badges/dev-status.svg)](https://david-dm.org/authsider/badges#info=devDependencies)
+
 The [Authsider](http://www.authsider.io) strategy for [Passport.js](http://www.passportjs.org/).
 
 ## Installation
