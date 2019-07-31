@@ -19,8 +19,10 @@
     "passport.js"
   ],
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "yarn build"
   },
   "dependencies": {
     "passport-oauth2": "^1.5.0"
@@ -28,5 +30,8 @@
   "devDependencies": {
     "@types/passport-oauth2": "^1.4.8",
     "typescript": "^3.5.3"
-  }
+  },
+  "files": [
+    "/lib"
+  ]
 }
